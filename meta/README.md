@@ -5,6 +5,7 @@ Bootstraps:
 - Emotion → Neural Networks
 - GraphQL → Hardware Description
 - Any Language → Any Target
+- ALL MODALITIES → ALL TARGET RUNTIMES
 
 Includes:
 - Sovereign .tar.gz bundle
