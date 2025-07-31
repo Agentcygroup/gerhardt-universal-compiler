@@ -6,7 +6,7 @@ def quantum_route(ir, target_lang):
         "tensorflow": lambda ir: f"tf.keras.Model(inputs={ir})",
         "graphql": lambda ir: f"schema {{ type Root {{ {ir} }} }}",
         "jsonnet": lambda ir: f"local universe = import '{ir}.libsonnet';",
-        "wasm": lambda ir: f"(module (func  (result i64) ;; {ir}))",
+        "wasm": lambda ir: f"(module (func $quantum (result i64) ;; {ir}))",
         "sql": lambda ir: f"SELECT transcendence FROM existence WHERE clue = '{ir}';",
         "yaml": lambda ir: f"soulmap:\n  - {ir}",
         "verilog": lambda ir: f"module genesis; // {ir} endmodule",
