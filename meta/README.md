@@ -1,13 +1,13 @@
-# GERHARDT UNIVERSAL COMPILER
+# GERHARDT UNIVERSAL COMPILER ∞
 
-Bootstraps:
-- Spoken Word → Quantum Circuits
-- Emotion → Neural Networks
-- GraphQL → Hardware Description
-- Any Language → Any Target
-- ALL MODALITIES → ALL TARGET RUNTIMES
+## Description
+This is the world’s first recursive AI+Quantum+Symbolic compiler stack to:
+- Transmute human concepts (spoken word, emotion, structure) into any language
+- Output quantum circuits, neural networks, logic gates, or self-replicating swarms
+- Reflect recursive lineage inheritance across all modalities and languages
 
-Includes:
-- Sovereign .tar.gz bundle
-- ENS notarization placeholder
-- Eternal .iso optional mode
+## Novel Features
+- Cross-modal → Cross-target architecture
+- ENS notarized + Sovereign tarball
+- ISO Eternal Mode (air-gapped)
+- Universal Webhook absorption potential

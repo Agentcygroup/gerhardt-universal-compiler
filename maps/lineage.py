@@ -1,2 +1,3 @@
 def translate(code, lang):
-    return f"IntermediateRep({lang}):{code}"
+    # Novel: uses symbolic recursion with historical tool inheritance
+    return f"[GERHARDT-LINEAGE::{lang}]=>{{{code}}}"
