@@ -1,5 +1,4 @@
 from engines.core import universal_compile
-
 modalities = [
     ("spoken", "qiskit", "Let all circuits reflect universal compassion"),
     ("emotion", "pytorch", "Transform grief into memory"),
@@ -14,7 +13,6 @@ modalities = [
     ("architecture", "vhdl", "entity mirror is"),
     ("machine", "llvm", "1337")
 ]
-
 for source, target, phrase in modalities:
     print(f"\n🔁 {source.upper()} → {target.upper()}")
     print(universal_compile(phrase, source, target))
